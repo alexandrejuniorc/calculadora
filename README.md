@@ -22,4 +22,4 @@ Projeto criado para treinar as skills básicas de javascript. Um projeto muito b
 
 # Autor
 
-Criado por Alexandre Junior. (Veja meu LinkedIn)[https://www.linkedin.com/in/alexandrejuniorc/]
+Feito por Alexandre Junior. [Veja meu LinkedIn](https://www.linkedin.com/in/alexandrejuniorc/)
